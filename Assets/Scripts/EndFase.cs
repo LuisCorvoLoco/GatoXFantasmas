@@ -5,11 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class EndFase : MonoBehaviour
 {
-    
+    public string SceneName;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        GameObject.FindWithTag("LevelManager").GetComponent<LevelManager>().NextLevel();
-        
+        SceneManager.LoadScene(SceneName);
+
 
     }
 }

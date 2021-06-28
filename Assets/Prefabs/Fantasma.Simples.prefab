@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2268612778166402637}
   - component: {fileID: 2268612778166402641}
   - component: {fileID: -6620866735198712084}
+  - component: {fileID: 1617742814}
   m_Layer: 6
   m_Name: Fantasma.Simples
   m_TagString: EnemyS
@@ -75,12 +76,13 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 55749588b28293d4eac25aca3366c06f, type: 3}
+  m_Sprite: {fileID: -9217646508876194652, guid: b1e4614eff38a2848aec9121d4e93750,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.35, y: 0.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -147,9 +149,28 @@ Animation:
   m_GameObject: {fileID: 2268612778166402640}
   m_Enabled: 1
   serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: c7e5a0556b8129d44871e0142b11a654, type: 2}
+  m_Animation: {fileID: 7400000, guid: 6c56ae8b28c76484fa236e9283533b96, type: 2}
   m_Animations: []
   m_WrapMode: 0
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!95 &1617742814
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2268612778166402640}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 479d0947d0a8ee64ea0d4cd4afc494c2, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
