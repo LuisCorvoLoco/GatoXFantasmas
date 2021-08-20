@@ -1,0 +1,358 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1165; Version 2009; 64bit' Language: 'pt' Physical Memory: 8089 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/DOCUMENTOS/Gatoxfantasma/GatoXFantasmas
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61077
+Successfully changed project path to: F:/DOCUMENTOS/Gatoxfantasma/GatoXFantasmas
+F:/DOCUMENTOS/Gatoxfantasma/GatoXFantasmas
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/DOCUMENTOS/Gatoxfantasma/GatoXFantasmas/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.5296
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56764
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003759 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 39.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.940 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001047 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.29 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 2.554600 ms (FindLiveObjects: 0.162200 ms CreateObjectMapping: 0.047000 ms MarkObjects: 2.269200 ms  DeleteObjects: 0.074800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Assets
+  artifactKey: Guid(2928e420ca6406a4f95a9b198d556656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets using Guid(2928e420ca6406a4f95a9b198d556656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a03913bebaad227078ba140330f3849') in 0.020995 seconds
+  Import took 0.059388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Assets/Ghost_Walk.png
+  artifactKey: Guid(b1e4614eff38a2848aec9121d4e93750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Ghost_Walk.png using Guid(b1e4614eff38a2848aec9121d4e93750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41297a1cadc40fe0bd2b58e8f01af196') in 0.309926 seconds
+  Import took 0.341876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Assets/Square.png
+  artifactKey: Guid(e90b6e49fe29d3d4787a301a26651bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Square.png using Guid(e90b6e49fe29d3d4787a301a26651bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb57e2b46e174a7d5ad104e902a9d95') in 0.054485 seconds
+  Import took 0.074569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Assets/cat_fighter_sprite1.png
+  artifactKey: Guid(b223818bed8ac4547b13427fe4b041b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/cat_fighter_sprite1.png using Guid(b223818bed8ac4547b13427fe4b041b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1701920db9b61f9dd0a0cd538d89c251') in 0.230418 seconds
+  Import took 0.237385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.727630 seconds.
+  path: Assets/Pixel Adventure 1
+  artifactKey: Guid(85dc5d7c5fb5e33439bfb9c076264a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1 using Guid(85dc5d7c5fb5e33439bfb9c076264a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1995e53f23ad898136aa8ea6949e48') in 0.003848 seconds
+  Import took 0.066308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.225488 seconds.
+  path: Assets/Pixel Adventure 1/Assets
+  artifactKey: Guid(e7fabf8f9d1b6f6499883b9c8ad15b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets using Guid(e7fabf8f9d1b6f6499883b9c8ad15b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692ed89dcbc0904916dd6c16d6840849') in 0.026769 seconds
+  Import took 0.040444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.637597 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Other
+  artifactKey: Guid(9b265bbeade4a16468dc117cf3b94dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Other using Guid(9b265bbeade4a16468dc117cf3b94dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce5a023bbec430ab6731e3bc5fb9017') in 0.005541 seconds
+  Import took 0.060583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.412801 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Other/Confetti (16x16).png
+  artifactKey: Guid(84e73c5fcbc3d324a9bebf3715abc565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Other/Confetti (16x16).png using Guid(84e73c5fcbc3d324a9bebf3715abc565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55fed037365a66e4e80b52ecceeb7f45') in 0.079938 seconds
+  Import took 0.089725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Other/Dust Particle.png
+  artifactKey: Guid(e7980a08b8e9f3c4bbe56762604cba98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Other/Dust Particle.png using Guid(e7980a08b8e9f3c4bbe56762604cba98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf22ae75829062b7f277fd4b51633260') in 0.043404 seconds
+  Import took 0.060422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Other/Shadow.png
+  artifactKey: Guid(38ea9af89efd60b4ab324ed5b168cb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Other/Shadow.png using Guid(38ea9af89efd60b4ab324ed5b168cb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6a32f5e3c699ea1d776af0c2e8466a') in 0.031891 seconds
+  Import took 0.055318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Other/Transition.png
+  artifactKey: Guid(af34cad9a50a94c42b0907fd58d6f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Other/Transition.png using Guid(af34cad9a50a94c42b0907fd58d6f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01e65cf1b02a5f79a3dd7b8175e4145') in 0.042009 seconds
+  Import took 0.047260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.651801 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps
+  artifactKey: Guid(031922c10d5cf6441a097003bc1e0c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps using Guid(031922c10d5cf6441a097003bc1e0c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e65d6016321fe94409d21763fa04fa2') in 0.089313 seconds
+  Import took 0.118490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.798127 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Materials/cat_walk.mat
+  artifactKey: Guid(f42a8ade13442424997ecf87cf2c25a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Materials/cat_walk.mat using Guid(f42a8ade13442424997ecf87cf2c25a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330e0b1a2a68302e6d1877e150839e7b') in 0.097418 seconds
+  Import took 0.117929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Materials/catWalk.mat
+  artifactKey: Guid(67d741edd1c763845a1819af6cfd9923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Materials/catWalk.mat using Guid(67d741edd1c763845a1819af6cfd9923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c27e7dea1913572eb0c143221123c44') in 0.017671 seconds
+  Import took 0.041472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Materials
+  artifactKey: Guid(ee016ad8f769047498961ac3b48a2f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Materials using Guid(ee016ad8f769047498961ac3b48a2f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70fce59f0941fe6ca03d4154bc91c3a0') in 0.005009 seconds
+  Import took 0.032410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Materials/catWalk.mat
+  artifactKey: Guid(67d741edd1c763845a1819af6cfd9923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Materials/catWalk.mat using Guid(67d741edd1c763845a1819af6cfd9923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c27e7dea1913572eb0c143221123c44') in 0.031194 seconds
+  Import took 0.050288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.615909 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Appearing (96x96).png
+  artifactKey: Guid(3421078018dc3934a8c1ab3b7bf89aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Appearing (96x96).png using Guid(3421078018dc3934a8c1ab3b7bf89aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a99dbca0459ea364b932a14b3a3965') in 0.103861 seconds
+  Import took 0.116123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters
+  artifactKey: Guid(c674b6697fb2a834d9379dc2411ddde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters using Guid(c674b6697fb2a834d9379dc2411ddde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852c205342e3d719a8399c42e45f977f') in 0.015153 seconds
+  Import took 0.031678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/cat_idle.png
+  artifactKey: Guid(32bb76034f05d9048b1ccdde77ac5cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/cat_idle.png using Guid(32bb76034f05d9048b1ccdde77ac5cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe5ceed31b5276ff196c7b8a9bd0fa5') in 0.044066 seconds
+  Import took 0.048990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/cat_jump.png
+  artifactKey: Guid(dce403161e899004eaf35e24fe76ce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/cat_jump.png using Guid(dce403161e899004eaf35e24fe76ce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db284d87b1bb3d7dcee7adcb00d494d') in 0.081204 seconds
+  Import took 0.100668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Desappearing (96x96).png
+  artifactKey: Guid(99e1beacf34e67c42afd2d344aefcc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Desappearing (96x96).png using Guid(99e1beacf34e67c42afd2d344aefcc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b770739eb4c3fe9ae4975506d74d4e8') in 0.082124 seconds
+  Import took 0.125390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/catWalk.png
+  artifactKey: Guid(b8504b4bca10f024e829d193ade49356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/catWalk.png using Guid(b8504b4bca10f024e829d193ade49356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301a32ef66e61b7c36db8eb680ad00d3') in 0.081014 seconds
+  Import took 0.083867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.140372 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy
+  artifactKey: Guid(5ef42789be2506f4893c4622d915911d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy using Guid(5ef42789be2506f4893c4622d915911d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abaeacabda288186ab4cec489227a200') in 0.008153 seconds
+  Import took 0.026591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.496449 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Double Jump (32x32).png
+  artifactKey: Guid(4099f676255555240b5240f897805dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Double Jump (32x32).png using Guid(4099f676255555240b5240f897805dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a082678f2ccb26422589191a6a1a892') in 0.092251 seconds
+  Import took 0.119476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Run (32x32).png
+  artifactKey: Guid(e362bc6a7c79fce4db16d145d43a5550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Run (32x32).png using Guid(e362bc6a7c79fce4db16d145d43a5550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6668cf3c3e6654338c8855635ec81df') in 0.087241 seconds
+  Import took 0.106060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Hit (32x32).png
+  artifactKey: Guid(18a451ae5d817e04bbf3101eaed9466e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Hit (32x32).png using Guid(18a451ae5d817e04bbf3101eaed9466e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c6d8e64edf2dce1b3d157fa29a9508f') in 0.052945 seconds
+  Import took 0.055895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog
+  artifactKey: Guid(04d5c6ab2c80a0049a258594f321bde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog using Guid(04d5c6ab2c80a0049a258594f321bde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755632c40c7671220880cf878df76251') in 0.004177 seconds
+  Import took 0.007901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Jump (32x32).png
+  artifactKey: Guid(4872bd1108769a946a6acb68dc156fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Jump (32x32).png using Guid(4872bd1108769a946a6acb68dc156fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431b22a9f4aab870b2a07564a4520fd3') in 0.036926 seconds
+  Import took 0.048673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Wall Jump (32x32).png
+  artifactKey: Guid(3b332af1e6c55e94f8e5eb08fb4ab06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Wall Jump (32x32).png using Guid(3b332af1e6c55e94f8e5eb08fb4ab06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5c7f829f96db6b83ba7abb31b9e7da') in 0.060393 seconds
+  Import took 0.064018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Fall (32x32).png
+  artifactKey: Guid(b6d14bcb8d9dbb349beb9d3619096732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Fall (32x32).png using Guid(b6d14bcb8d9dbb349beb9d3619096732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05938372c0859b85af49bee6d6b16bf6') in 0.036679 seconds
+  Import took 0.046399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Idle (32x32).png
+  artifactKey: Guid(cd947491a13509945aa1b644f9db3ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Idle (32x32).png using Guid(cd947491a13509945aa1b644f9db3ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fc264ac967f228e46f21d7d2784c2d1') in 0.068902 seconds
+  Import took 0.098579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.734972 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Animation
+  artifactKey: Guid(23ff5954cb043464fad8c1a7bb077bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Animation using Guid(23ff5954cb043464fad8c1a7bb077bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22de8f8ed26e516eb8b5cac02a2de1d5') in 0.012324 seconds
+  Import took 0.108546 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.908 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1746.
+Total: 5.478600 ms (FindLiveObjects: 0.241700 ms CreateObjectMapping: 0.062100 ms MarkObjects: 5.098800 ms  DeleteObjects: 0.073400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
