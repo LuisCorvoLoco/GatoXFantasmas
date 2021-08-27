@@ -2,15 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameController : MonoBehaviour
 {
-    
+
+    public int totalScore;
+    public static GameController gmc;
+
+    public Text scoreText;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        gmc = this;
     }
 
     // Update is called once per frame
@@ -25,5 +30,10 @@ public class GameController : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
+    }
+
+    public void UpdateScoreText()
+    {
+        scoreText.text = totalScore.ToString();
     }
 }
